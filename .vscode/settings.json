@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SampleAI.sln"
+    "dotnet.defaultSolution": "EMC207_SampleAI.sln"
 }
